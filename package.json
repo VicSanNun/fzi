@@ -9,7 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "chai-subset": "^1.6.0",
+    "chai-things": "^0.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.1",
+    "mocha": "^6.2.1",
+    "mssql": "^5.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
